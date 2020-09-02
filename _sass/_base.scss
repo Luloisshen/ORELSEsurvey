@@ -44,6 +44,12 @@ p {
 
 .bg-primary {
     background-color: white;
+    color: $theme-dark
+}
+
+.bg-grey {
+    background-color: lightgrey;
+    color: $theme-dark
 }
 
 .bg-dark {
